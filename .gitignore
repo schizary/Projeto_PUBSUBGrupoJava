@@ -1,0 +1,7 @@
+target/
+credenciais/
+*.iml
+.idea/
+.vscode/*
+!.vscode/launch.json
+!.vscode/extensions.json
